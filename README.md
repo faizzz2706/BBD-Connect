@@ -72,5 +72,5 @@ This project is under development and currently not licensed. Final license will
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Faiz Ali  
 (Student at BBD University)
